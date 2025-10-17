@@ -1,12 +1,12 @@
-##DevOps Intern Final Assessment
+## DevOps Intern Final Assessment
 
 Name: Abhienaya Sri Date: 17-Oct-2025
 
-##Description
+## Description
 
 This repository demonstrates a small DevOps workflow using Linux, GitHub, Docker, CI/CD, Nomad, and monitoring with Loki.
 
-Instructions
+## Instructions
 
 Run scripts/sysinfo.sh for system info.
 
@@ -33,7 +33,7 @@ View logs in Loki as described in monitoring/loki_setup.txt
 group "hello-group" { task "hello-task" { driver = "docker"
 
 
-Folder Structure:
+## Folder Structure:
 
 ```
 devops-intern-final/
